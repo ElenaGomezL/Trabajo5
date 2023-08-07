@@ -1,0 +1,27 @@
+.head{
+    background-color: aliceblue;
+    height: auto;
+    width: 100%;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+.dia{
+    font-weight: bold;
+    font-size: 120%;
+    color: blueviolet;
+}
+.horarios{
+    font-style: italic;
+    font-size: 100%;
+    color: blueviolet;
+}
+.formulario{
+    border-style: dotted;
+}
+.foot{
+    background-color: antiquewhite;
+    height: auto;
+    width: 100%;
+}
